@@ -3,31 +3,31 @@
         "id": 1,
         "name": "Julio Teheran",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/527054@2x.jpg",
-        "position": "Pitcher"
+        "position": "SP1"
     },
     {
         "id": 2,
         "name": "Dallas Keuchel",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/572971@2x.jpg",
-        "position": "Pitcher"
+        "position": "SP2"
     },
     {
         "id": 3,
         "name": "Max Fried",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/608331@2x.jpg",
-        "position": "Pitcher"
+        "position": "SP3"
     },
     {
         "id": 4,
         "name": "Mike Soroka",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/647336@2x.jpg",
-        "position": "Pitcher"
+        "position": "SP4"
     },
     {
         "id": 5,
         "name": "Brian McCann",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/435263@2x.jpg",
-        "position": "Catcher"
+        "position": "C"
     },
     {
         "id": 6,

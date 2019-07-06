@@ -1,0 +1,11 @@
+#player-card {
+    width: 250px;
+}
+
+#player-pic {
+    width: 250px;
+}
+
+.img-fluid .img-thumbnail .col-lg-3 {
+    padding: 20px;
+}
