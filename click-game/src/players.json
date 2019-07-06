@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Julio Teheran",
-        "image": "https://securea.mlb.com/mlb/images/players/head_shot/527054@2x.jpg",
-        "position": "SP1"
+        "image": "https://securea.mlb.com/mlb/images/players/head_shot/527054.jpg",
+        "position": "Pitcher"
     },
     {
         "id": 2,
         "name": "Dallas Keuchel",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/572971@2x.jpg",
-        "position": "SP2"
+        "position": "Pitcher"
     },
     {
         "id": 3,
         "name": "Max Fried",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/608331@2x.jpg",
-        "position": "SP3"
+        "position": "Pitcher"
     },
     {
         "id": 4,
         "name": "Mike Soroka",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/647336@2x.jpg",
-        "position": "SP4"
+        "position": "Pitcher"
     },
     {
         "id": 5,
         "name": "Brian McCann",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/435263@2x.jpg",
-        "position": "C"
+        "position": "Catcher"
     },
     {
         "id": 6,
         "name": "Freddie Freeman",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/518692@2x.jpg",
-        "position": "1B"
+        "position": "1st Base"
     },
     {
         "id": 7,
         "name": "Ozzie Albies",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/645277@2x.jpg",
-        "position": "2B"
+        "position": "2nd Base"
     },
     {
         "id": 8,
         "name": "Dansby Swanson",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/621020@2x.jpg",
-        "position": "SS"
+        "position": "Shortstop"
     },
     {
         "id": 9,
         "name": "Josh Donaldson",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/518626@2x.jpg",
-        "position": "3B"
+        "position": "3rd Base"
     },
     {
         "id": 10,
         "name": "Nick Markakis",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/455976@2x.jpg",
-        "position": "RF"
+        "position": "Right Field"
     },
     {
         "id": 11,
         "name": "Ronald Acuna Jr",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/660670@2x.jpg",
-        "position": "CF"
+        "position": "Center Field"
     },
     {
         "id": 12,
         "name": "Austin Riley",
         "image": "https://securea.mlb.com/mlb/images/players/head_shot/663586@2x.jpg",
-        "position": "LF"
+        "position": "Left Field"
     }
 ]
