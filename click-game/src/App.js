@@ -19,6 +19,9 @@ class App extends Component {
 
   handleIncrement = () => {
     this.setState({ score: this.state.score + 1 });
+    if (this.state.topScore < this.state.score) {
+      this.setState({ topScore: this.state.score + 1 })
+    }
     this.shuffle(players);
   };
 
@@ -41,12 +44,12 @@ class App extends Component {
     return (
       <Container>
       <Header
-      score={this.state.score}/>
+      score={this.state.score}
+      topScore={this.state.topScore}/>
       <div className="container">
       <div className="row">
       {this.state.players.map(player => (
       <PlayerCard 
-      score={this.state.score}
       handleIncrement={this.handleIncrement}  
       id={player.id}
       key={player.id}
