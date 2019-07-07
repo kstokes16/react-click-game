@@ -4,9 +4,8 @@ import "./style.css";
 
 function PlayerCard (props) {
     return (
-        
         <div className="col-lg-2 col-md-3 col-sm-6" id="player-card">
-          <img className="img-fluid img-thumbnail" src={props.image} id="player-pic" alt={props.name} onClick={() => props.tally(props.id)}/>
+          <img className="img-fluid img-thumbnail" src={props.image} id="player-pic" alt={props.name} onClick={() => props.handleIncrement(props.id)}/>
           <div className="card-body">
             <h5 className="card-title text-center" id="player-name">{props.name}</h5>
             <h5 className="card-title text-center" id="player-position">{props.position}</h5>
