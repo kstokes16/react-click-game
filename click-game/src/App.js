@@ -40,7 +40,8 @@ class App extends Component {
   render() {
     return (
       <Container>
-      <Header />
+      <Header
+      score={this.state.score}/>
       <div className="container">
       <div className="row">
       {this.state.players.map(player => (
