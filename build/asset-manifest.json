@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kstokes16/react-click-game/static/css/main.ce696a64.chunk.css",
+    "main.js": "/kstokes16/react-click-game/static/js/main.449fa72c.chunk.js",
+    "main.js.map": "/kstokes16/react-click-game/static/js/main.449fa72c.chunk.js.map",
+    "runtime~main.js": "/kstokes16/react-click-game/static/js/runtime~main.c0324dff.js",
+    "runtime~main.js.map": "/kstokes16/react-click-game/static/js/runtime~main.c0324dff.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/kstokes16/react-click-game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/kstokes16/react-click-game/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/kstokes16/react-click-game/index.html",
+    "precache-manifest.520dbdde7502be25f7ed9b19c8133a99.js": "/kstokes16/react-click-game/precache-manifest.520dbdde7502be25f7ed9b19c8133a99.js",
+    "service-worker.js": "/kstokes16/react-click-game/service-worker.js",
+    "static/css/main.ce696a64.chunk.css.map": "/kstokes16/react-click-game/static/css/main.ce696a64.chunk.css.map",
+    "static/media/logo.svg": "/kstokes16/react-click-game/static/media/logo.5d5d9eef.svg"
+  }
+}
